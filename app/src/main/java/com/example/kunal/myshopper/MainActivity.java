@@ -163,6 +163,7 @@ public class MainActivity extends AppCompatActivity implements
 
 
         int[] items = new int[]{
+
                 R.drawable.tv1,
                 R.drawable.vaccumcleaner,
                 R.drawable.oven,
