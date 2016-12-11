@@ -172,7 +172,7 @@ public class MainActivity extends AppCompatActivity implements
                 R.drawable.almirah,};
 
 
-        Products a = new Products("Samsung 32 inch", "ELEC", 40000,items[0],tvDesc,11);
+        Products a = new Products("Samsung 32 inch TV", "ELEC", 40000,items[0],tvDesc,11);
         productsList.add(a);
 
         a =  new Products("Eureka Forbes Vaccum cleaner", "ELEC", 16999,items[1],vacDesc,12);
